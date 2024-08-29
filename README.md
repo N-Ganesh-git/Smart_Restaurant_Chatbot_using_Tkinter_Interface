@@ -46,9 +46,6 @@ Installation:
 * Contributing:
      * If you'd like to contribute to this project, please fork the repository and submit a pull request. You can also open issues for any bugs or feature requests.
 
-* License:
-     * This project is open-source and available under the MIT License.
-
 * Contact:
      * For any inquiries or support, please reach out to ganeshnahu81@gmail.com.
 
